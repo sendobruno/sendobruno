@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Bruno Almeida
-Bem-vindo ao meu perfil no GitHub! Sou um **Analista de Sistemas** especialista em **Gestão Ágil de Projetos** apaixonado por tecnologia, sempre buscando aprender e compartilhar conhecimento.
+Bem-vindo ao meu perfil no GitHub! Sou **Analista de Sistemas**, especialista em **Gestão Ágil de Projetos** e apaixonado por tecnologia, sempre em busca de aprender e compartilhar conhecimento.
 
 ## 🚀 Sobre mim
 
