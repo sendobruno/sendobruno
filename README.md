@@ -11,8 +11,12 @@ Bem-vindo ao meu perfil no GitHub! Sou **Analista de Sistemas**, especialista em
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-1F77B4?logo=databricks&logoColor=white&style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-F28C28?logo=data-engineer&logoColor=white&style=for-the-badge)
+![BI Analytics](https://img.shields.io/badge/-BI%20Analytics-FFDD44?logo=microsoft-power-bi&logoColor=black&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?logo=clickup&logoColor=white&style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/-Kanban-007ACC?logo=kanban&logoColor=white&style=for-the-badge)
