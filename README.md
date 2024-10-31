@@ -4,9 +4,9 @@ Bem-vindo ao meu perfil no GitHub! Sou **Analista de Sistemas**, especialista em
 ## 🚀 Sobre mim
 
 - 🌱 Estou aprendendo **Python, Power BI, Data Analytics e Product Menagement**
-- 💬 Pergunte-me sobre **Gestão Ágil de Projetos e Product Menagement**
+- 💬 Pergunte-me sobre **Gestão Ágil de Projetos**
 - 📫 Como entrar em contato: **brunoaraujoalmeida@gmail.com**
-- ⚡ Fato curioso: **Crio abelhas sem ferrão**
+- ⚡ Fato curioso: **Crio abelhas sem ferrão** 😀
 
 ## 🛠️ Tecnologias e Ferramentas
 
